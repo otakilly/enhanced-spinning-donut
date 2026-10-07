@@ -4,7 +4,6 @@ messing around with 3d ascii graphics in the terminal
 
 pure python + numpy, no graphics library
 
-![donnut spinning](torus_spin.gif)
 
 ---
 
