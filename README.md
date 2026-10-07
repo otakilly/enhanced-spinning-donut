@@ -4,7 +4,7 @@ messing around with 3d ascii graphics in the terminal
 
 pure python + numpy, no graphics library
 
-
+![donnut spinning](donut_spin.gif)
 ---
 
 So at first, I just wanted to replicate the famous spinning donut but I tried to put in some other shapes and I pushed it a little.
